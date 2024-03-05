@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Introduction to Machine Learning",
+      "body": "Machine learning is a subset of artificial intelligence...",
+      "author": "John Doe"
+    },
+    {
+      "id": "2",
+      "title": "The Importance of Regular Exercise",
+      "body": "Regular exercise has numerous benefits for both physical and mental health...",
+      "author": "Jane Smith"
+    },
+    {
+      "id": "3",
+      "title": "Exploring the Wonders of Space",
+      "body": "Space has always been a subject of fascination for humanity...",
+      "author": "David Brown"
+    },
+    {
+      "id": "2366",
+      "title": "rajuu",
+      "body": " rajaakaljfalkjfs",
+      "author": "Raju"
+    },
+    {
+      "id": "48c8",
+      "title": "Agriculture",
+      "body": " Agriculture sustains life by providing essential food and resources for humanity. It encompasses a diverse range of practices, from traditional farming methods to advanced technologies. Farmers play a vital role in cultivating crops, raising livestock, and managing land to meet global demand. Sustainable agriculture practices aim to balance productivity with environmental stewardship, ensuring the long-term viability of our food systems. Innovation in agriculture, such as precision farming and genetic engineering, continues to revolutionize the industry, addressing challenges like food security and climate change.",
+      "author": "Manoj"
+    },
+    {
+      "id": "cc73",
+      "title": "Mobiles",
+      "body": " Mobile phones have become indispensable tools in modern society, revolutionizing communication and connectivity. With their compact design and multifunctionality, they serve as portable computers, cameras, and entertainment devices. Mobile phones enable instant communication through calls, texts, and social media platforms, bridging geographical gaps and fostering global connections. The advent of smartphones has led to a surge in mobile internet usage, facilitating access to information and services on the go. Apps and mobile software provide endless possibilities, from productivity tools to gaming and entertainment. Mobile phones have transformed industries, from banking to healthcare, with the rise of mobile payment systems and telemedicine. Despite their benefits, concerns about privacy, digital addiction, and screen time have emerged with the widespread use of mobile phones. Advances in mobile technology continue to drive innovation, with features like AI assistants, augmented reality, and 5G networks shaping the future of mobile communication. Accessibility initiatives strive to ensure that mobile technology is inclusive and accessible to all, regardless of disabilities or socioeconomic status. Mobile phones have become an integral part of daily life, shaping how we work, communicate, and interact with the world around us.",
+      "author": "Manoj"
+    }
+  ]
+}
