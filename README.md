@@ -1,3 +1,8 @@
+# to Run this application use the following commands in the cmd 
+1.npm install react-router-dom@5
+2.npm install
+3.npx json-server --watch data/db.json --port 8000
+4.npm start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
